@@ -16,7 +16,7 @@ if (!defined('ABSPATH')) exit;
 define('FWDREADMOREPLUGIN_URL', plugin_dir_url(__FILE__));
 define('FWDREADMOREPLUGIN_DIR', plugin_dir_path(__FILE__));
 
-
+include(plugin_dir_path(__FILE__) . 'includes/fwd-readmore-settings.php');
 include(plugin_dir_path(__FILE__) . 'includes/fwd-readmore-menus.php');
 include(plugin_dir_path(__FILE__) . 'includes/fwd-readmore-styles.php');
 include(plugin_dir_path(__FILE__) . 'includes/fwd-readmore-scripts.php');
