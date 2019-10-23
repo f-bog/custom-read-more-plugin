@@ -1,7 +1,6 @@
 <?php
 /*
 Plugin Name:  FWD Read More
-Plugin URI:   https://pixelize.com.au/
 Description:  Change the excerpt and add fun animations.
 Version:      1.0.0
 Author:       Pixelize Web Design
