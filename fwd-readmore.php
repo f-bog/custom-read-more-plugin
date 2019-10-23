@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name:  FWD Read More
-Plugin URI:   https://frederickswebdesigns.com.au/
+Plugin URI:   https://pixelize.com.au/
 Description:  Change the excerpt and add fun animations.
 Version:      1.0.0
-Author:       Fredericks Web Designs
-Author URI:   https://frederickswebdesigns.com.au/
+Author:       Pixelize Web Design
+Author URI:   https://pixelize.com.au/
 License:      GPL2
 License URI:  https://www.gnu.org/licenses/gpl-2.0.html
 Text Domain:  fwdreadmore
@@ -22,5 +22,3 @@ include(plugin_dir_path(__FILE__) . 'includes/fwd-readmore-styles.php');
 include(plugin_dir_path(__FILE__) . 'includes/fwd-readmore-scripts.php');
 include(plugin_dir_path(__FILE__) . 'includes/fwd-readmore-changer.php');
 include(plugin_dir_path(__FILE__) . 'includes/fwd-readmore-options.php');
-
-
